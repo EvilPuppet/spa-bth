@@ -1,2 +1,0 @@
-# Teste of single-SPA
-
